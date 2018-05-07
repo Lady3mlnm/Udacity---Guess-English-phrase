@@ -1,3 +1,3 @@
 The 1st training project for Udacity course "Object Oriented Programming in Java" (https://www.udacity.com/course/object-oriented-programming-in-java--ud283). In original task was to guess the movie, but I a little transformed it.
 
-The phrases was taken from Udemy course "Learn ESL Phrasal Verbs & Idioms with Short Stories" (https://www.udemy.com/learn-esl-phrasal-verbs-idioms-with-short-stories/) and free lessons from the other courses.
+The English phrases were taken from Udemy course "Learn ESL Phrasal Verbs & Idioms with Short Stories" (https://www.udemy.com/learn-esl-phrasal-verbs-idioms-with-short-stories/) and free lessons from the other courses on that site.
