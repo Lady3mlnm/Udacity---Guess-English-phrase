@@ -7,7 +7,7 @@ public class PhraseGenerator {
     private LinkedList<String> phraseList = new LinkedList<String>();
 
     PhraseGenerator(){
-        this("English phrases4.txt");
+        this("English phrases.txt");
     }
 
     PhraseGenerator(String fileName){
@@ -60,13 +60,6 @@ public class PhraseGenerator {
         }catch (Exception e){
             System.out.println("\n! Caught common Exception !\n" + e + "\n");
         }
-
-        // Display generated phraseList
-        /*for(String s: phraseList ) {
-            System.out.println(s);
-        }
-        System.out.println();
-        */
     }
 
 

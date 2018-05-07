@@ -41,15 +41,6 @@ public class SingleRound {
                 System.out.println("[" + counterWrong + "]");
             }
 
-            /*temp
-            if (counterCorrect >= 1) {
-                System.out.print("Correct letters: ");
-                for (int i = 0; i < counterCorrect; i++)
-                    System.out.print(lettersCorrect[i] + " ");
-                System.out.println("[" + counterCorrect + "]");
-            }
-            */
-
             //Receive a letter from player
             do {
                 System.out.print("Guess a letter: ");
@@ -174,6 +165,8 @@ public class SingleRound {
                 return true;
         return false;
     }
+
+
 
     public static boolean IsCharInArray(char[] arCh1, char[] arCh2, char ch){
         for (char t : arCh1)
